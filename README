@@ -1,0 +1,5 @@
+Full stack ASP.NET CORE web app
+This app allows you to view and add products with fields (Name, Description, and Quantity). The app uses In-Memory to store the data.
+For testing the API, you can update the launchUrl in Properties/launchSettings.json to swagger or api/products.
+Challenges:
+Implementing a wrapper on the backend to include maxPageSize when retrieving products. In the event when there are thousands of products, it would be an expensive call to return all the products.

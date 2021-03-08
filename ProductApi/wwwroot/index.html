@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>To-do CRUD</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/main.js" asp-append-version="true"></script>
+    <script type="text/javascript">getProducts();</script>
+</head>
+<body>
+    <h1>Product Catalog</h1>
+    <form action="javascript:void(0);" method="POST" onsubmit="addProduct()">
+        <input type="text" id="add-name" placeholder="Name">
+        <input type="text" id="add-description" placeholder="Description">
+        <input type="text" id="add-quantity" placeholder="Quantity">
+        <input type="submit" value="Add">
+    </form>
+
+    <table>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Quantity</th>
+
+        <tbody id="productsView"></tbody>
+
+    </table>
+
+</body>
+</html>
+

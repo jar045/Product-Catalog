@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B6B93CD5-EA9F-40C8-ABB5-72DB31CA7352}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductApi/wwwroot/js/main.js">
+    <Files>
+      <File FileName="ProductApi/wwwroot/index.html" Line="17" Column="12" />
+      <File FileName="ProductApi/wwwroot/js/main.js" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductApi" expanded="True">
+            <Node name="ProductApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="main.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProductApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
